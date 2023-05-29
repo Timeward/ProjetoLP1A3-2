@@ -1,4 +1,4 @@
-module com.example.projetolp1a32 {
+module com.example.projetolp1a {
     requires javafx.controls;
     requires javafx.fxml;
 
